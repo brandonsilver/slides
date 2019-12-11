@@ -208,7 +208,7 @@ Including third-party dependencies that contain known security bugs.
 - Keep components up to date
 
 
-## 10. Insufficient Logging & Monitoring
+## 10. Insufficient Logging & Monitoring {.centered}
 Attacks proceed and expand without the knowledge of the target.
 
 
