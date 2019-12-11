@@ -1,0 +1,10 @@
+div.centered h1, div.centered h2 {
+    padding-top: 15%;
+    margin-right: 0;
+    text-align: center;
+}
+
+div.centered p {
+    margin-right: 0;
+    text-align: center;
+}
